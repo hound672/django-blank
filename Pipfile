@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+django-debug-toolbar = "==1.11"
+coverage = "==4.5.2"
+pytest = "==4.0.2"
+pytest-django = "==3.4.4"
+factory_boy = "==2.11.1"
+
+[packages]
+psycopg2 = "==2.7.5"
+psycopg2-binary = "==2.7.6.1"
+djangorestframework = "==3.9.0"
+Django = "==2.1.5"
+PyJWT = "==1.7.1"
+split-settings = "*"
+
+[requires]
+python_version = "3.7"
