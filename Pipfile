@@ -13,7 +13,7 @@ factory_boy = "==2.11.1"
 [packages]
 psycopg2 = "==2.7.5"
 psycopg2-binary = "==2.7.6.1"
-djangorestframework = "==3.9.0"
+djangorestframework = "==3.11.2"
 Django = "==2.1.5"
 PyJWT = "==1.7.1"
 split-settings = "*"
